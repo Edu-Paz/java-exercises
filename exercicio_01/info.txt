@@ -1,0 +1,9 @@
+a) Alimento mais caro: Fondue
+b) ELetrodoméstico mais caro: Torradeira
+- Camiseta Quantidade: 10
+- Calca Quantidade: 5
+- Bermuda Quantidade: 16
+- Casaco Quantidade: 8
+- Moleton Quantidade: 36
+- Gravata Quantidade: 78
+- Camiseta Quantidade: 4
