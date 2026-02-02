@@ -1,2 +1,8 @@
-/bin/
-/.metadata/
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Compilados
+bin/
+*.class
