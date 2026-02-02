@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/eduardo/Desktop/Unisinos/Semestre_4/java_exercises/.metadata/.plugins/org.eclipse.jdt.core
+2883335418.index
+1865797976.index
+2701922578.index

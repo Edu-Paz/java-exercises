@@ -1,0 +1,19 @@
+package exercise_01;
+
+public class Exercicio1 {
+
+	public void imprimeArray(int[] array, int n) {
+		if (n < 0) {
+			return;
+		}
+			System.out.println(array[n]);
+			imprimeArray(array, n - 1);
+	}
+	public static void main(String[] args) {
+		Exercicio1 ex = new Exercicio1();
+		int [] array = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
+		
+		ex.imprimeArray(array, (array.length - 1));
+	}
+
+}
