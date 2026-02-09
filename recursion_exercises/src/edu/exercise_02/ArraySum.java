@@ -1,4 +1,4 @@
-package exercise_02;
+package edu.exercise_02;
 
 public class ArraySum {
 

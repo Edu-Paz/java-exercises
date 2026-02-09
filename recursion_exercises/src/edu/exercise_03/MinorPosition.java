@@ -1,4 +1,4 @@
-package exercise_03;
+package edu.exercise_03;
 
 /**
  * Class to find the index of the minimum value in an array using recursion.

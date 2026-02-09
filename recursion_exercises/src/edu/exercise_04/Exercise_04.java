@@ -1,9 +1,9 @@
-package edu.exercise_03;
+package edu.exercise_04;
 
 /**
  * Class containing methods to perform operations on bidimensional arrays (matrices).
  */
-public class Exercise_03 {
+public class Exercise_04 {
 	 
     /**
      * Entry point for printing the primary diagonal.
@@ -44,7 +44,7 @@ public class Exercise_03 {
 	}
 	
 	public static void main(String[] args) {
-		Exercise_03 ex = new Exercise_03();
+		Exercise_04 ex = new Exercise_04();
 		
 		int[][] array = {
 		        {1, 2, 3, 4},

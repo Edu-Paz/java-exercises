@@ -1,4 +1,4 @@
-package edu.exercise_04;
+package edu.exercise_05;
 
 public class BinaryConverter {
 	public int binaryToDecimal(String binary) throws IllegalArgumentException{

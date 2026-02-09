@@ -1,4 +1,4 @@
-package exercise_01;
+package edu.exercise_01;
 
 public class ReverseArrayPrinter {
 

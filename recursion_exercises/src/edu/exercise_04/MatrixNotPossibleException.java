@@ -1,4 +1,4 @@
-package edu.exercise_03;
+package edu.exercise_04;
 
 public class MatrixNotPossibleException extends Exception {
 	private static final long serialVersionUID = 1084881600208528286L;
